@@ -1,0 +1,4 @@
+Q: What happens when you initialize a new repository? when you need to do it?
+Ans: When I initialize a new repository, a .git file is added to the folder which track all the changes in the folder. 
+I need it when I want to track the changes of files in the repository.
+
