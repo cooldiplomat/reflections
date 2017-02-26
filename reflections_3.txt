@@ -50,3 +50,9 @@ Ans:
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 merging is easier.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We can collaborate other version control systems like Mercurial or tortoise SVN.
+I dont know what will be easier or what will be harder as currently I dont have the experiences on those platforms. 
