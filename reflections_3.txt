@@ -46,3 +46,7 @@ automatically stay up-to-date with your remote repository?
 
 Ans:
 >>>>>>> 90fb1556dac88dbde73c15811ddb7fff1a450fe9
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+merging is easier.
